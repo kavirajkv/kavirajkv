@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kaviraj @kavirajkv
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning python and statistics
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning python and DSA
 - 📫 reach me through mail : kavirajk36kv@gmail.com
 
 <!---
