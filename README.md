@@ -5,7 +5,11 @@
 ```
 {
   "name":"Kaviraj",
-  "age": 24
+  "age": 24,
+  "skils":{"languages":'C','Python',
+            "Frameworks":'flask','VueJs','Bootstrap',
+            "Database":'Postgresql','Sqlite',
+            "Tools":'Git','Postman'
 }
 ```
 
