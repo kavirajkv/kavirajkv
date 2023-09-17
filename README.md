@@ -9,7 +9,7 @@
   "skils":{"languages":'C','Python',
             "Frameworks":'flask','VueJs','Bootstrap',
             "Database":'Postgresql','Sqlite',
-            "Tools":'Git','Postman'
+            "Tools":'Git','Postman'}
 }
 ```
 
