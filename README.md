@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack development
 - 👨‍💻Currently learning JAVA
 - 📫 reach me through mail : kavirajk36kv@gmail.com
-- 	```
+```
 {
   "name":"Kaviraj",
   "age": 24
