@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Kaviraj** @kavirajkv
 - 👀 I’m interested in Full stack development
-- 👨‍💻Currently learning JAVA
+- 👨‍💻Currently learning Java, VueJs
 - 📫 reach me through mail : kavirajk36kv@gmail.com
 ```
 {
