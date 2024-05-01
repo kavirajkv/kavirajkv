@@ -6,9 +6,9 @@
 {
   "name":"Kaviraj",
   "age": 24,
-  "skils":{"languages":'C','Python',
+  "skils":{"languages":'Python','Go',
             "Frameworks":'flask','VueJs','Bootstrap',
-            "Database":'Postgresql','Sqlite',
+            "Database":'Postgresql','Sqlite','MongoDB',
             "Tools":'Git','Postman'}
 }
 ```
