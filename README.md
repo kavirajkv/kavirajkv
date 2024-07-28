@@ -1,15 +1,15 @@
 - 👋 Hi, I’m **Kaviraj** @kavirajkv
 - 👀 I’m interested in Full stack development
-- 👨‍💻Currently learning Java, VueJs
+- 👨‍💻Currently learning VueJs
 - 📫 reach me through mail : kavirajk36kv@gmail.com
 ```
 {
   "name":"Kaviraj",
   "age": 24,
-  "skils":{"languages":'Python','Go',
+  "skils":{"languages":'Python','Go','Bash'
             "Frameworks":'flask','VueJs','Bootstrap',
             "Database":'Postgresql','Sqlite','MongoDB',
-            "Tools":'Git','Postman'}
+            "Tools":'Git','Postman','Docker','kubernetes'}
 }
 ```
 
