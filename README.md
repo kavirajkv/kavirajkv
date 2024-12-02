@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Kaviraj** @kavirajkv
-- 👀 I’m interested in Full stack development
+- 👀 I’m interested in distributed systems
 - 👨‍💻Currently learning VueJs
 - 📫 reach me through mail : kavirajk36kv@gmail.com
 ```
@@ -9,7 +9,8 @@
   "skils":{"languages":'Python','Go','Bash'
             "Frameworks":'flask','VueJs','Bootstrap',
             "Database":'Postgresql','Sqlite','MongoDB',
-            "Tools":'Git','Postman','Docker','kubernetes'}
+            "Tools":'Git','Postman','Docker','kubernetes','Jenkins','ArgoCD',
+            "Cloud": 'AWS'}
 }
 ```
 
